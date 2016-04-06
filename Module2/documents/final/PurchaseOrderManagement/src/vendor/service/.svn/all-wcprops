@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/TVM1516/!svn/ver/12604/TVM04/TJA18/trunk/Project1/GroupB/documents/final/PurchaseOrderManagement/src/vendor/service
+END
+VendorProductService.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/TVM1516/!svn/ver/12604/TVM04/TJA18/trunk/Project1/GroupB/documents/final/PurchaseOrderManagement/src/vendor/service/VendorProductService.java
+END
+BillService.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/TVM1516/!svn/ver/12604/TVM04/TJA18/trunk/Project1/GroupB/documents/final/PurchaseOrderManagement/src/vendor/service/BillService.java
+END
+EmployeeLoginService.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/TVM1516/!svn/ver/12604/TVM04/TJA18/trunk/Project1/GroupB/documents/final/PurchaseOrderManagement/src/vendor/service/EmployeeLoginService.java
+END
+LoginService.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/TVM1516/!svn/ver/12604/TVM04/TJA18/trunk/Project1/GroupB/documents/final/PurchaseOrderManagement/src/vendor/service/LoginService.java
+END
+TruckService.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/TVM1516/!svn/ver/12604/TVM04/TJA18/trunk/Project1/GroupB/documents/final/PurchaseOrderManagement/src/vendor/service/TruckService.java
+END
+VendorEmployeeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/TVM1516/!svn/ver/12604/TVM04/TJA18/trunk/Project1/GroupB/documents/final/PurchaseOrderManagement/src/vendor/service/VendorEmployeeService.java
+END
+VendorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/TVM1516/!svn/ver/12604/TVM04/TJA18/trunk/Project1/GroupB/documents/final/PurchaseOrderManagement/src/vendor/service/VendorService.java
+END

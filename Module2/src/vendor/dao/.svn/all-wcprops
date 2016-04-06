@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TVM1516/!svn/ver/14191/TVM04/TJA18/trunk/Project1/GroupB/src/vendor/dao
+END
+VendorDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/TVM1516/!svn/ver/11878/TVM04/TJA18/trunk/Project1/GroupB/src/vendor/dao/VendorDao.java
+END
+VendorEmployeeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/TVM1516/!svn/ver/14191/TVM04/TJA18/trunk/Project1/GroupB/src/vendor/dao/VendorEmployeeDao.java
+END
+VendorProductDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/TVM1516/!svn/ver/14137/TVM04/TJA18/trunk/Project1/GroupB/src/vendor/dao/VendorProductDao.java
+END
+BillDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TVM1516/!svn/ver/13600/TVM04/TJA18/trunk/Project1/GroupB/src/vendor/dao/BillDao.java
+END
+EmployeeLoginDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/TVM1516/!svn/ver/13541/TVM04/TJA18/trunk/Project1/GroupB/src/vendor/dao/EmployeeLoginDao.java
+END
+LoginDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/TVM1516/!svn/ver/11878/TVM04/TJA18/trunk/Project1/GroupB/src/vendor/dao/LoginDao.java
+END
+TruckDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/TVM1516/!svn/ver/14123/TVM04/TJA18/trunk/Project1/GroupB/src/vendor/dao/TruckDao.java
+END

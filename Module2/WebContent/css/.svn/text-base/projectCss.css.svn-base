@@ -1,0 +1,81 @@
+@CHARSET "ISO-8859-1";
+#navbar ul { 
+	margin: 0; 
+	padding: 5px; 
+	list-style-type: none; 
+	text-align: center; 
+  
+  margin-left:-5px;
+  
+   
+    
+	
+	} 
+ 
+#navbar ul li {  
+	display: inline; 
+	 float: left;
+	 margin-top: -12px;
+	  
+	} 
+#h1{
+	margin-left: 0px;	
+	}
+ 
+#navbar ul li a { 
+	 display:inline;
+    font-weight: bold;
+    color:white;
+    background-color:navy;
+    
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: .2em 1em ; 
+	} 
+ 
+#navbar ul li a:hover { 
+	color: #000; 
+	background-color: #fff; 
+	} 
+	
+	
+
+
+
+#main { background: #eee }
+
+
+#header {
+    height: 90px;
+    background:	#FF9933;
+    text-align: center;
+}
+
+
+#footer {
+    height: 45px;
+    clear: left;
+    background:	#FF9933;
+    padding : 8px;
+    margin-top: 70%;
+}
+
+
+
+#logo {
+    height: 78px;
+    width: 80px;
+    float: left;
+   
+   
+  
+}
+
+
+
+#content{
+	margin-top:-20px;
+	 height: 800px;
+	background:#E6E6E6;
+}@CHARSET "ISO-8859-1";

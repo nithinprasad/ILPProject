@@ -1,0 +1,117 @@
+9
+
+dir
+15803
+https://intvmvsvn01/svn/TVM1516/TVM04/TJA18/trunk/Project1/GroupB
+https://intvmvsvn01/svn/TVM1516
+
+
+
+2015-07-31T03:06:50.044096Z
+14240
+1027501
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f35ae2c7-d06c-c24e-b624-389ee01a9436
+
+build
+dir
+
+.classpath
+file
+
+
+
+
+2015-08-04T10:54:57.909916Z
+09ccd2e5cd5062a72e6c5d10b214ce94
+2015-07-29T03:08:01.355191Z
+13095
+982168
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1163
+
+documents
+dir
+
+log
+dir
+
+.project
+file
+
+
+
+
+2015-08-04T10:54:57.975984Z
+f20b9ebe1811b7be660e47bab7e301cc
+2015-07-14T11:52:57.065956Z
+3951
+982168
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1040
+
+project
+dir
+
+src
+dir
+
+WebContent
+dir
+
+.settings
+dir
+

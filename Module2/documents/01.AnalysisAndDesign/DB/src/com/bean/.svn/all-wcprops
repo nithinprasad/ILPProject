@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/TVM1516/!svn/ver/6378/TVM04/TJA18/trunk/Project1/GroupB/documents/01.AnalysisAndDesign/DB/src/com/bean
+END
+POProduct.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/TVM1516/!svn/ver/5194/TVM04/TJA18/trunk/Project1/GroupB/documents/01.AnalysisAndDesign/DB/src/com/bean/POProduct.java
+END
+DeliveryStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/TVM1516/!svn/ver/5302/TVM04/TJA18/trunk/Project1/GroupB/documents/01.AnalysisAndDesign/DB/src/com/bean/DeliveryStore.java
+END
+Product.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/TVM1516/!svn/ver/5194/TVM04/TJA18/trunk/Project1/GroupB/documents/01.AnalysisAndDesign/DB/src/com/bean/Product.java
+END
+dcStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/TVM1516/!svn/ver/5302/TVM04/TJA18/trunk/Project1/GroupB/documents/01.AnalysisAndDesign/DB/src/com/bean/dcStore.java
+END
+DC.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/TVM1516/!svn/ver/5302/TVM04/TJA18/trunk/Project1/GroupB/documents/01.AnalysisAndDesign/DB/src/com/bean/DC.java
+END
+dcProduct.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/TVM1516/!svn/ver/5302/TVM04/TJA18/trunk/Project1/GroupB/documents/01.AnalysisAndDesign/DB/src/com/bean/dcProduct.java
+END
+BillDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/TVM1516/!svn/ver/6377/TVM04/TJA18/trunk/Project1/GroupB/documents/01.AnalysisAndDesign/DB/src/com/bean/BillDetails.java
+END
+Defect.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/TVM1516/!svn/ver/5302/TVM04/TJA18/trunk/Project1/GroupB/documents/01.AnalysisAndDesign/DB/src/com/bean/Defect.java
+END
+Registration.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/TVM1516/!svn/ver/6117/TVM04/TJA18/trunk/Project1/GroupB/documents/01.AnalysisAndDesign/DB/src/com/bean/Registration.java
+END
+Store.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/TVM1516/!svn/ver/5194/TVM04/TJA18/trunk/Project1/GroupB/documents/01.AnalysisAndDesign/DB/src/com/bean/Store.java
+END
+poVendor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/TVM1516/!svn/ver/5194/TVM04/TJA18/trunk/Project1/GroupB/documents/01.AnalysisAndDesign/DB/src/com/bean/poVendor.java
+END
+StoreProduct.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/TVM1516/!svn/ver/5302/TVM04/TJA18/trunk/Project1/GroupB/documents/01.AnalysisAndDesign/DB/src/com/bean/StoreProduct.java
+END
+PO.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/TVM1516/!svn/ver/5732/TVM04/TJA18/trunk/Project1/GroupB/documents/01.AnalysisAndDesign/DB/src/com/bean/PO.java
+END
